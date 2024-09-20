@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 65%;
     margin: auto;
     overflow: hidden;
 }
@@ -84,4 +84,11 @@ footer {
     padding: 10px;
     background: #35424a;
     color: #ffffff;
+}
+
+.centered {
+    text-align: center;
+    /* Center the text */
+    margin: 20px 0;
+    /* Add some space above and below */
 }
